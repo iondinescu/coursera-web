@@ -1,0 +1,5 @@
+browser-sync --server --directory --files "*"
+git add .
+git status
+git commit -m "Small change"
+git push
